@@ -3,3 +3,9 @@
 ################################################################################
 
 /SwaggerAPI.Tests/bin/Debug
+/SwaggerAPI.Tests/obj/Debug
+/.vs
+/SwaggerAPI/.vs/SwaggerAPI
+/SwaggerAPI/bin
+/SwaggerAPI/obj/Debug
+/SwaggerAPI/packages
